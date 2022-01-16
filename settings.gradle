@@ -1,0 +1,2 @@
+rootProject.name='MagneticField Sensor'
+include ':app'
